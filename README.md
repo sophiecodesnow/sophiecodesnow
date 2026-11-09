@@ -107,29 +107,69 @@ As I continued learning about technology, I discovered cybersecurity and became 
 
 ## Projects
 
+My portfolio includes practical cybersecurity labs, security investigations and risk assessments completed through independent learning and the Google Cybersecurity Professional Certificate.
+
 ### Linux Security Labs
+
 Practical exercises exploring Linux commands, file permissions, user management and access control, including managing file permissions through the command line.
 
+[View Project](projects/Linux-File-Permissions/)
+
 ### SQL Investigation
+
 Practical SQL exercises involving database queries, filtering records, applying conditions and retrieving relevant information from employee and security-related datasets.
 
+[View Project](projects/SQL-Filtering-and-Queries/)
+
 ### Network Traffic Analysis
-Analysing network traffic using TCPDump, examining DNS and ICMP activity, and investigating network communication to identify potential issues.
+
+Analysing network traffic using tcpdump, examining DNS and ICMP activity, and investigating network communication to identify potential issues.
+
+[View DNS and ICMP Analysis](projects/Network-Traffic-Analysis/dns-icmp-network-traffic-analysis.pdf)
+
+[View ICMP Flood Incident Report](projects/Network-Traffic-Analysis/icmp-flood-dos-incident-report.pdf)
+
+### TCP SYN Flood Analysis
+
+Exploring TCP SYN flood attacks, understanding how denial-of-service attacks affect network availability and examining network security measures.
+
+[View Project](projects/TCP-SYN-Flood-Analysis/)
 
 ### Security Incident Investigation
-Investigating a simulated brute force attack and malware distribution incident, analysing network protocols and documenting findings and recommended security controls.
+
+Investigating simulated brute-force attacks and malware distribution, analysing security events and documenting findings and recommended security controls.
+
+[View Project](projects/Brute-Force-and-Malware-Analysis/)
 
 ### Network Hardening and Security Risk Assessment
+
 Identifying network vulnerabilities and recommending security controls, including password management, access restrictions, multifactor authentication and firewall configuration.
 
+[View Project](projects/Network-Hardening/)
+
 ### Security Risk Assessment
-Applying the NIST Cybersecurity Framework to identify, assess and document security risks, with recommendations to improve an organisation's security posture.
+
+Applying risk assessment techniques to identify potential threats, evaluate vulnerabilities and prioritise risks based on likelihood and severity.
+
+[View Project](projects/Risk-Assessment-and-Register/)
 
 ### Security Auditing
-Exploring security controls, identifying potential vulnerabilities and documenting findings to assess an organisation's security practices.
 
-### Deloitte Cybersecurity Job Simulation
-Completing practical exercises involving computer networking, log analysis and web security through a simulated cybersecurity consulting project.
+Exploring organisational security controls, identifying potential vulnerabilities and documenting findings to assess security practices.
+
+[View Project](projects/Botium-Toys-Security-Audit/)
+
+### Access Control and Least Privilege
+
+Examining a simulated data leak and applying the principle of least privilege, including reviewing access permissions and recommending improvements to prevent unauthorised information sharing.
+
+[View Project](projects/Access-Control-and-Least-Privilege/)
+
+### NIST Cybersecurity Framework
+
+Applying the NIST Cybersecurity Framework to analyse a simulated denial-of-service incident and develop recommendations across Identify, Protect, Detect, Respond and Recover.
+
+[View Project](projects/Network-Traffic-Analysis/icmp-flood-dos-incident-report.pdf)
 ---
 
 ## Contact
