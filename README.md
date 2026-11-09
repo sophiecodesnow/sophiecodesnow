@@ -88,9 +88,9 @@ As I continued learning about technology, I discovered cybersecurity and became 
   <a href="https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/E9pA6qsdbeyEkp3ti_9PBTqmSxAf6zZTseP_DZcPPfRMrgSebjgPK_1791227580368_completion_certificate.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Deloitte-Cybersecurity_Job_Simulation-000000?style=for-the-badge" alt="Deloitte Cybersecurity Job Simulation" />
   </a>
-  <a href="certificates/code-first-girls-python.png" target="_blank">
+  <a href="certificates/Code-First-Girls-Python-Certificate.png" target="_blank">
     <img src="https://img.shields.io/badge/Code_First_Girls-Python-FF69B4?style=for-the-badge" alt="Code First Girls Python Certificate" />
-  </a>
+</a>
 </div>
 
 ### Currently In Progress
