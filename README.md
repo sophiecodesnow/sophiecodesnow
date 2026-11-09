@@ -70,17 +70,20 @@ As I continued learning about technology, I discovered cybersecurity and became 
 ### Completed Certificates
 
 <div>
-  <a href="https://coursera.org/share/c5e259d63bea5f621f47304927270fd0" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cybersecurity-Course_1-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Foundations of Cybersecurity" />
+ <a href="https://coursera.org/share/c5e259d63bea5f621f47304927270fd0" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Foundations_of_Cybersecurity-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Foundations of Cybersecurity" />
   </a>
+
   <a href="https://coursera.org/share/78ea727395040182c7b15a61164c7dcb" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cybersecurity-Course_2-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Play It Safe: Manage Security Risks" />
+    <img src="https://img.shields.io/badge/Google_Play_It_Safe:_Manage_Security_Risks-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Play It Safe: Manage Security Risks" />
   </a>
+
   <a href="https://coursera.org/share/30f0c17e99f6f5a030219df309d5615c" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cybersecurity-Course_3-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Connect and Protect: Networks and Network Security" />
+    <img src="https://img.shields.io/badge/Google_Connect_and_Protect:_Networks_and_Network_Security-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Connect and Protect: Networks and Network Security" />
   </a>
+  
   <a href="https://coursera.org/share/291f01ad7386bb035cd26318ab21355c" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Cybersecurity-Course_4-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Tools of the Trade: Linux and SQL" />
+    <img src="https://img.shields.io/badge/Google_Tools_of_the_Trade:_Linux_and_SQL-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Tools of the Trade: Linux and SQL" />
   </a>
   <a href="https://www.credly.com/badges/6281df34-e6de-4855-b423-36ac8253f344/" target="_blank">
     <img src="https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco Introduction to Cybersecurity" />
