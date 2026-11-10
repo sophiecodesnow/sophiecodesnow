@@ -127,6 +127,12 @@ Applying the NIST Cybersecurity Framework to analyse a simulated denial-of-servi
 
 [View Project](projects/Network-Traffic-Analysis/icmp-flood-dos-incident-report.pdf)
 
+### Database Vulnerability Assessment
+
+Assessing the risks of a publicly accessible remote database server, identifying potential threats to business operations and recommending security controls to prevent unauthorised access and data disruption.
+
+[View Project](projects/Database-Vulnerability-Assessment/Vulnerability_assessment_report.pdf)
+
 ---
 
 ## Skills
