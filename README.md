@@ -125,13 +125,20 @@ Examining a simulated data leak and applying the principle of least privilege, i
 
 Applying the NIST Cybersecurity Framework to analyse a simulated denial-of-service incident and develop recommendations across Identify, Protect, Detect, Respond and Recover.
 
-[View Project](projects/Network-Traffic-Analysis/icmp-flood-dos-incident-report.pdf)
+[View Project](projects/NIST-Cybersecurity-Framework/cybersecurity-framework-incident-report.pdf.pdf)
 
 ### Database Vulnerability Assessment
 
 Assessing the risks of a publicly accessible remote database server, identifying potential threats to business operations and recommending security controls to prevent unauthorised access and data disruption.
 
 [View Project](projects/Database-Vulnerability-Assessment/Vulnerability_assessment_report.pdf)
+
+### Application Threat Modelling
+
+Applying the PASTA threat modelling methodology to a sneaker marketplace mobile app, identifying business risks, potential vulnerabilities and security controls to reduce the risk of cyber attacks.
+
+[View Project](project/Application-Threat-Modelling/PASTA-Threat-Modelling-Worksheet.pdf)
+
 
 ---
 
