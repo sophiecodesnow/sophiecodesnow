@@ -40,6 +40,10 @@ As I continued learning about technology, I discovered cybersecurity and became 
     <img src="https://img.shields.io/badge/Google_Tools_of_the_Trade:_Linux_and_SQL-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Tools of the Trade: Linux and SQL" />
   </a>
 
+<a href="https://coursera.org/share/3a47e1a3101685b15688df3b5e15a087" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Assets_Threats_and_Vulnerabilities-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Google Assets Threats and Vulnerabilities " />
+  </a>
+  
   <a href="https://www.credly.com/badges/6281df34-e6de-4855-b423-36ac8253f344/" target="_blank">
     <img src="https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" alt="Cisco Introduction to Cybersecurity" />
   </a>
